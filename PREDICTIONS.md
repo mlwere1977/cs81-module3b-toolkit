@@ -1,4 +1,4 @@
-# 🔮 PREDICTIONS FROM THE MATH TOOLKIT
+# These are the predictions from the MAth ToolKit. 
 
 **Name:** Mukwaya Lwere  
 **Class:** CS 81 JavaScript  
